@@ -9,4 +9,5 @@ let () =
 #thread
 #require "core.top"
 #require "core.syntax"
-#utop_prompt_fancy_light
+
+#utop_prompt_fancy_dark;;
